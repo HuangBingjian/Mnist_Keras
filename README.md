@@ -6,3 +6,11 @@ Mnist Keras 99.64%
 具体技术原理及实现效果请参考 Mnist_Keras.pdf
 
 代码参考了 https://github.com/ShahariarRabby/Mnist_cnn_Swish  并对其中代码进行了修改。
+
+<img src="https://github.com/HuangBingjian/Mnist_Keras/blob/master/result/dataset.png" width="200" hegiht="200" align=center />
+
+<img src="https://github.com/HuangBingjian/Mnist_Keras/blob/master/result/model.png" width="400" hegiht="600" align=center />
+
+<img src="https://github.com/HuangBingjian/Mnist_Keras/blob/master/result/acc.png" width="500" hegiht="313" align=center />
+
+<img src="https://github.com/HuangBingjian/Mnist_Keras/blob/master/result/test.png" width="400" hegiht="313" align=center />
